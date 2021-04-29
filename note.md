@@ -244,7 +244,8 @@ synclient TapButton1=1  //设置触摸板点击
 /etc/rc.d/rc.local
 chmod +x /etc/rc.d/rc.local 在里面追加命令或者bash脚本
 
-
+https://www.jianshu.com/p/df8e82ade760
+https://cloud.tencent.com/developer/article/1456578
 
 
 
